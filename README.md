@@ -1,9 +1,11 @@
+E-Commerce Data Analysis Project
+
+
 📌 Overview
 This project presents an end-to-end analysis of an e-commerce dataset using MySQL for data extraction and Python (with Pandas, NumPy, Matplotlib, and Seaborn) for data manipulation and visualization. The goal is to extract insights on customer behavior, sales performance, product trends, and more.
 
-🛠️ Technologies Used
-Python 3.x
-
+Technologies Used
+Python 
 pandas
 numpy
 matplotlib
